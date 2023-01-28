@@ -1,3 +1,5 @@
-# Frontend Mentor Projects
+# Product Preview Card
 
-This is a repo for all of my Frontend Mentor Projects.
+[Challenge URL](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+
+
